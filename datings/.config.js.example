@@ -1,2 +1,5 @@
 var port = 3009
 module.exports.port = port
+module.exports.database = datings
+module.exports.dbuser	= datings
+module.exports.dbpassword = 1234567
